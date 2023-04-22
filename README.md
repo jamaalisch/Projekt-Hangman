@@ -4,4 +4,5 @@ Da ist zu viel Langeweile habe, habe ich 2 Versionen des Spiels erstellt, da ich
 Jetzt zu den Spielen.
 
 ezmode:
-Spieler: >= 2 Ein Spieler gibt nach Programmstart ein Wort ein, welches verdeckt wird, damit die anderen Spieler dieses nicht sehen. Dann bekommt der andere Spieler gesagt, wie viele Buchstaben das Wort hat. Dieser Spieler muss nun das Wort korrekt erraten, indem er immer einen Buchstaben eingibt. Falls dieser Buchstabe nicht im Wort vorhanden ist, wird ein Versuch abgezogen. Es wird ebenfalls ein Versuch abgezogen, wenn der Spieler einen Buchstaben errät, der davor schon geraten wurde. Wenn der Spieler keine Versuche mehr übrig hat, wird das Programm beendet und das Wort ausgegeben.
+Spieler: >= 2
+Ein Spieler gibt nach Programmstart ein Wort ein, welches verdeckt wird, damit die anderen Spieler dieses nicht sehen. Dann bekommt der andere Spieler gesagt, wie viele Buchstaben das Wort hat. Dieser Spieler muss nun das Wort korrekt erraten, indem er immer einen Buchstaben eingibt. Falls dieser Buchstabe nicht im Wort vorhanden ist, wird ein Versuch abgezogen. Es wird ebenfalls ein Versuch abgezogen, wenn der Spieler einen Buchstaben errät, der davor schon geraten wurde. Wenn der Spieler keine Versuche mehr übrig hat, wird das Programm beendet und das Wort ausgegeben.
