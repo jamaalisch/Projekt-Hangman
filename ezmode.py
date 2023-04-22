@@ -48,4 +48,4 @@ while n > 0 and not wort_erraten:
 if n == 0:
     print("Leider hast du alle Versuche verbraucht, du Idiot. Das Wort war", wort)
 elif n < 0:
-    print("Also ich bitte dich, < 0 Versuche ist schon lächerlich.")
+    print("Also ich bitte dich, < 0 Versuche ist schon lächerlich. Das Wort war", wort)
