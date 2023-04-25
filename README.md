@@ -10,3 +10,8 @@ Ein Spieler gibt nach Programmstart ein Wort ein, welches verdeckt wird, damit d
 hardmode:
 Spieler: >= 1
 Der Spieler spielt gegen das Programm. Es wird zufällig ein Wort mit der Länge 2-28 Buchstaben ausgewählt. Der Spieler weiß nur, wie lang das Wort ist. Er hat nun anstatt 10 12 Versuche, doch bekommt alle abgezogen, wenn er ein Buchstaben doppelt rät. Sonst ist alles identisch.
+
+Arbeitsschritte der Gruppenmitglieder:
+
+Luan: Debugging des Codes und einbringen von Verbessserungsvorschlägen
+Cedric: alles Andere
