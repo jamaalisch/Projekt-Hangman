@@ -1,0 +1,1 @@
+Vorgehen der Gruppenmitglieder:
