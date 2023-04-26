@@ -1,5 +1,5 @@
 ## Schönen guten Tag Herr Hergaß,
-Da ist zu viel Langeweile habe, habe ich 2 Versionen des Spiels erstellt, da ich keine Lust hatte, beide Versionen zusammenzufassen. Sie benötigen nach meinem Wissenstands keine weiteren Dinge, um die normale Version (ezmode) zu spielen. Um den Hardmode zu spielen, benötigen Sie allerdings das Paket "zufallsworte", welches Sie mit "pip install zufallsworte" installieren können. Falls Sie darauf bestehen, dass ich beide Dateien zusammenführen soll, werde ich dies natürlich tun, doch bitte sehen Sie davon ab, da ich abgeneigt bin, da zu tun.
+Da ist zu viel Langeweile habe, habe ich 2 Versionen des Spiels erstellt, da ich keine Lust hatte, beide Versionen zusammenzufassen. Sie benötigen nach meinem Wissenstands keine weiteren Dinge, um die normale Version (ezmode) zu spielen. Um den Hardmode zu spielen, benötigen Sie allerdings das Paket "zufallsworte", welches Sie mit "pip install zufallsworte" installieren können. Falls Sie darauf bestehen, dass ich beide Dateien zusammenführen soll, werde ich dies natürlich tun, doch bitte sehen Sie davon ab, da ich abgeneigt bin, das zu tun.
 
 Jetzt zu den Spielen.
 
