@@ -5,7 +5,6 @@ n = 7
 wort_erraten = False
 geratene_buchstaben = []
 
-
 def hang(n):
     if n == 7:
         print("_______\n|/\n|\n|\n|\n|\n----------")
