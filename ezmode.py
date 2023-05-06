@@ -27,6 +27,7 @@ def hang(n):
 
 wort = getpass("Gib ein beliebiges Wort an, welches mehrere Buchstaben hat: \n").lower()
 
+
 if re.findall('\d+', wort):
     print("Welches Wort beinhaltet denn bitte Zahlen? \nDu Idiot. \nVersuche es noch einmal ohne Zahlen!")
     exit()
