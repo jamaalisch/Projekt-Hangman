@@ -38,6 +38,7 @@ while n > 0 and not wort_erraten:
     if buchstabe in geratene_buchstaben:
         print("Du hast diesen Buchstaben bereits geraten. Haste jetzt verloren. Hättest du mal vorher überlegt wa?")
         n -= n
+
     geratene_buchstaben.append(buchstabe)
 
     if buchstabe in wort_liste:
